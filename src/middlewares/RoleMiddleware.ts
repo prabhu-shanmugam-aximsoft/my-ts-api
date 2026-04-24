@@ -1,17 +1,18 @@
 import { ExpressMiddlewareInterface } from "routing-controllers";
-import { Request, Response } from 'express';
+import { Request, Response ,NextFunction} from 'express';
 
-export class RoleMiddleware implements ExpressMiddlewareInterface {
-  constructor(private roles: string[]) { }
+// Factory function to create middleware with dynamic roles
+export const RoleMiddleware = (roles: string[]) => {
+  return class implements ExpressMiddlewareInterface {
+    use(request: Request, response: Response, next: NextFunction): void {
+      // Assuming you have a user object attached to request by previous auth middleware
+      const user = (request as any).user; 
 
-  use(req: any, res: Response, next: (err?: any) => any): void {
-    const user = req.user;
-
-    if (!user || !this.roles.includes(user.role)) {
-      res.status(403).json({ message: "Forbidden" });
-      return;
+      if (!user || !user.roles || !roles.some(role => user.role)) {
+        response.status(403).json({ message: 'Forbidden' });
+        return;
+      }
+      next();
     }
-
-    next();
-  }
-}
+  };
+};

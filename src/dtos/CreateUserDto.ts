@@ -14,18 +14,3 @@ export class CreateUserDto {
   role?: string;
 }
 
-export class UpdateUserDto {
-  @IsOptional()
-  @IsString()
-  name?: string;
-
-  @IsOptional()
-  @IsEmail()
-  email?: string;
-
-  @IsOptional()
-  password?: string;
-
-  @IsOptional()
-  role?: string;
-}

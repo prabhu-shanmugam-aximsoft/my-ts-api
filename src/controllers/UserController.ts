@@ -3,6 +3,7 @@ import { UserService } from "../services/UserService";
 import { AuthMiddleware } from "../middlewares/AuthMiddleware";
 import { CreateUserDto } from "../dtos/CreateUserDto";
 import { UpdateUserDto } from "../dtos/UpdateUserDto";
+import { RoleMiddleware } from "../middlewares/RoleMiddleware";
 
 @JsonController("/users")
 @UseBefore(AuthMiddleware)
@@ -11,10 +12,8 @@ export class UserController {
     private service = new UserService();
 
     @Get("/")
-    async getAll(@Req() req: any, @Res() resp: any) {
-        if (req.user.role !== "admin") {
-            return resp.status(403).json({ message: "Forbidden" });
-        }
+     @UseBefore(RoleMiddleware(["admin"]))
+    async getAll(@Req() req: any, @Res() resp: any) {       
         return this.service.getAll();
     }
 
@@ -49,16 +48,11 @@ export class UserController {
 
 
     @Delete("/:id")
+    @UseBefore(RoleMiddleware(["admin"]))
     async deleteUser(
         @Param("id") id: number,
         @Req() req: any
     ) {
-
-        const isAdmin = req.user.role === "admin";
-
-        if (!isAdmin) {
-            throw new Error("Only admin can delete users");
-        }
 
         await this.service.delete(id);
 
