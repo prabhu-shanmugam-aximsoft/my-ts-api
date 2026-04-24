@@ -1,0 +1,7 @@
+2026-04-24T04:28:33.494Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:36:27)
+2026-04-24T10:07:38.424Z [error]: POST /signup - duplicate key value violates unique constraint "users_email_key" - error: duplicate key value violates unique constraint "users_email_key"
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
+    at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
