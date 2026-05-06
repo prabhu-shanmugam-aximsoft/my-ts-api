@@ -9,7 +9,14 @@ import { LoggerMiddleware } from "./middlewares/LoggerMiddleware";
 
 export const app = createExpressServer({
     routePrefix: '/api',
+    cors: {
+        origin: 'http://localhost:5173', // Restrict to specific origin
+        methods: ['GET', 'POST', 'PUT', 'DELETE'],
+        allowedHeaders: ['Content-Type', 'Authorization'],
+        credentials: true,
+    },
     controllers: [AuthController, UserController, ContactController, ProfileController],
-    middlewares: [LoggerMiddleware, ErrorMiddleware],
-    validation: true
+    middlewares: [LoggerMiddleware,ErrorMiddleware],
+    validation: true ,
+    defaultErrorHandler: false   
 });

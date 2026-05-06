@@ -19,7 +19,16 @@ export class ProfileController {
         @Body() body: ProfileUpdateDto,
         @Req() req: any
     ) {
-        return this.service.update(req.user.id, body);
+        console.log("userid1:" + req.user.id)
+        //return this.service.update(req.user.id, body);
+        const user = await this.service.update(req.user.id, body);
+        return {
+            "id": user.id,
+            "name": user.name,
+            "email": user.email,
+            "role": user.role
+        }
+
     }
 
 

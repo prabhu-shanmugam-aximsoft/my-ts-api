@@ -5,3 +5,442 @@
     at processTicksAndRejections (node:internal/process/task_queues:104:5)
     at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
     at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
+2026-04-27T04:55:27.829Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T04:58:55.045Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:00:35.120Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:02:44.873Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:03:07.006Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:23:12.775Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:23:14.501Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:23:43.927Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:25:20.915Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:27:32.268Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:34:17.367Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:34:29.066Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:34:30.290Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T05:36:22.470Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T06:49:45.338Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T06:52:27.536Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:09:01.135Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:09:18.229Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:10:20.936Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:14:51.661Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:14:52.524Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:14:58.632Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:18:21.103Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:18:34.070Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:19:59.333Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:20:08.089Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T07:20:52.904Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:34:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T08:07:52.897Z [error]: POST /signup - duplicate key value violates unique constraint "users_email_key" - error: duplicate key value violates unique constraint "users_email_key"
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
+    at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
+2026-04-27T08:17:17.537Z [error]: POST /signup - duplicate key value violates unique constraint "users_email_key" - error: duplicate key value violates unique constraint "users_email_key"
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
+    at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
+2026-04-27T08:18:52.571Z [error]: POST /signup - duplicate key value violates unique constraint "users_email_key" - error: duplicate key value violates unique constraint "users_email_key"
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
+    at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
+2026-04-27T08:21:31.182Z [error]: POST /signup - duplicate key value violates unique constraint "users_email_key" - error: duplicate key value violates unique constraint "users_email_key"
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
+    at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
+2026-04-27T08:21:51.513Z [error]: POST /signup - duplicate key value violates unique constraint "users_email_key" - error: duplicate key value violates unique constraint "users_email_key"
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
+    at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
+2026-04-27T08:27:52.705Z [error]: POST /signup - duplicate key value violates unique constraint "users_email_key" - error: duplicate key value violates unique constraint "users_email_key"
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.create (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:9:24)
+    at async AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:14:22)
+2026-04-27T08:29:49.510Z [error]: POST /signup - Email already exists - Error: Email already exists
+    at AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T08:32:10.029Z [error]: POST /signup - Email already exists - Error: Email already exists
+    at AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T08:44:20.627Z [error]: POST /signup - Email already exists - Error: Email already exists
+    at AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T08:51:10.345Z [error]: POST /signup - Email already exists - Error: Email already exists
+    at AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-27T08:55:25.294Z [error]: POST /signup - Email already exists - Error: Email already exists
+    at AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T06:28:57.324Z [error]: POST /signup - Email already exists - Error: Email already exists
+    at AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T06:29:27.746Z [error]: POST /signup - Email already exists - Error: Email already exists
+    at AuthController.register (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:18:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T10:22:17.863Z [error]: PUT /profile - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:34:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ProfileController.updateUser (/home/aximsoft/projects/my-ts-api/src/controllers/ProfileController.ts:24:22)
+2026-04-28T10:24:26.504Z [error]: PUT /users/9 - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:34:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T10:28:37.182Z [error]: PUT /profile - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:34:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ProfileController.updateUser (/home/aximsoft/projects/my-ts-api/src/controllers/ProfileController.ts:24:22)
+2026-04-28T10:28:45.291Z [error]: PUT /users/9 - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:34:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T10:30:10.093Z [error]: PUT /profile - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:34:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ProfileController.updateUser (/home/aximsoft/projects/my-ts-api/src/controllers/ProfileController.ts:24:22)
+2026-04-28T10:36:33.416Z [error]: PUT /profile - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:36:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ProfileController.updateUser (/home/aximsoft/projects/my-ts-api/src/controllers/ProfileController.ts:24:22)
+2026-04-28T10:36:56.248Z [error]: PUT /users/9 - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:36:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T10:40:27.451Z [error]: PUT /users/9 - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:36:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T10:41:46.280Z [error]: PUT /users/9 - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:36:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-28T10:42:00.152Z [error]: PUT /users/9 - Email already used - Error: Email already used
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:36:23)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T03:55:14.777Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T04:35:21.168Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+2026-04-29T05:22:51.818Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+2026-04-29T09:00:04.339Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+2026-04-29T09:00:58.079Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T09:01:57.897Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T09:01:59.178Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T09:01:59.712Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T10:21:59.491Z [error]: POST /login - Invalid body, check 'errors' property for more info. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:249:30
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:149:15)
+    at async Promise.all (index 0)
+2026-04-29T10:22:12.095Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T10:37:21.002Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T10:42:06.890Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-29T12:18:51.686Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-29T12:19:41.412Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-29T12:19:44.224Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-29T12:19:46.906Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-29T12:19:47.503Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-29T12:21:18.830Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-29T12:21:22.716Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-29T12:21:33.740Z [error]: DELETE /users/[object%20Object] - Given parameter id is invalid. Value ("[object Object]") cannot be parsed into number. - Error
+    at new HttpError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/HttpError.ts:16:18)
+    at new BadRequestError (/home/aximsoft/projects/my-ts-api/node_modules/src/http-error/BadRequestError.ts:10:5)
+    at new InvalidParamError (/home/aximsoft/projects/my-ts-api/node_modules/src/error/ParamNormalizationError.ts:10:5)
+    at ActionParameterHandler.normalizeStringValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:167:17)
+    at ActionParameterHandler.normalizeParamValue (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:136:40)
+    at ActionParameterHandler.handle (/home/aximsoft/projects/my-ts-api/node_modules/src/ActionParameterHandler.ts:39:24)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:43
+    at Array.map (<anonymous>)
+    at RoutingControllers.executeAction (/home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:117:8)
+    at /home/aximsoft/projects/my-ts-api/node_modules/src/RoutingControllers.ts:85:23
+2026-04-30T04:59:55.762Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-30T05:00:02.137Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-30T05:00:05.641Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-30T06:43:15.257Z [error]: PUT /profile/ - No valid fields to update - Error: No valid fields to update
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:56:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ProfileController.updateUser (/home/aximsoft/projects/my-ts-api/src/controllers/ProfileController.ts:24:22)
+2026-04-30T06:43:45.580Z [error]: PUT /profile/ - No valid fields to update - Error: No valid fields to update
+    at UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:56:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ProfileController.updateUser (/home/aximsoft/projects/my-ts-api/src/controllers/ProfileController.ts:24:22)
+2026-05-02T11:08:58.090Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-05-02T12:07:42.960Z [error]: POST /login - Invalid credentials - Error: Invalid credentials
+    at AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:37:19)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-05-06T04:30:39.798Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:30:41.690Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:30:53.482Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:30:54.466Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:30:56.802Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:31:04.705Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:31:48.845Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:32:08.540Z [error]: POST /login - column reference "email" is ambiguous - error: column reference "email" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByEmail (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:58:20)
+    at async AuthController.login (/home/aximsoft/projects/my-ts-api/src/controllers/AuthController.ts:35:22)
+2026-05-06T04:40:25.147Z [error]: GET /profile - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByID (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:67:20)
+2026-05-06T04:40:25.798Z [error]: GET /profile - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByID (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:67:20)
+2026-05-06T04:40:44.832Z [error]: GET /profile - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByID (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:67:20)
+2026-05-06T04:40:49.332Z [error]: GET /profile - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.findByID (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:67:20)
+2026-05-06T04:43:47.085Z [error]: GET /contact - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ContactService.getAll (/home/aximsoft/projects/my-ts-api/src/services/ContactService.ts:15:20)
+2026-05-06T04:43:47.093Z [error]: GET /users - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.getAll (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:80:20)
+2026-05-06T04:43:47.096Z [error]: GET /contact - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ContactService.getAll (/home/aximsoft/projects/my-ts-api/src/services/ContactService.ts:15:20)
+2026-05-06T04:43:47.101Z [error]: GET /users - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.getAll (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:80:20)
+2026-05-06T04:45:36.013Z [error]: GET /contact - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ContactService.getAll (/home/aximsoft/projects/my-ts-api/src/services/ContactService.ts:15:20)
+2026-05-06T04:45:36.018Z [error]: GET /contact - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ContactService.getAll (/home/aximsoft/projects/my-ts-api/src/services/ContactService.ts:15:20)
+2026-05-06T04:51:30.206Z [error]: PUT /profile/ - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:26:20)
+    at async ProfileController.updateUser (/home/aximsoft/projects/my-ts-api/src/controllers/ProfileController.ts:24:22)
+2026-05-06T04:54:28.984Z [error]: PUT /users/1 - column reference "name" is ambiguous - error: column reference "name" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:26:20)
+2026-05-06T04:54:35.961Z [error]: DELETE /users/9 - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.delete (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:45:20)
+    at async UserController.deleteUser (/home/aximsoft/projects/my-ts-api/src/controllers/UserController.ts:77:9)
+2026-05-06T04:54:38.607Z [error]: DELETE /users/9 - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.delete (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:45:20)
+    at async UserController.deleteUser (/home/aximsoft/projects/my-ts-api/src/controllers/UserController.ts:77:9)
+2026-05-06T04:55:17.138Z [error]: PUT /users/1 - column reference "name" is ambiguous - error: column reference "name" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:26:20)
+2026-05-06T04:57:17.452Z [error]: PUT /users/1 - column "users" of relation "users" does not exist - error: column "users" of relation "users" does not exist
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.update (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:26:20)
+2026-05-06T05:06:22.618Z [error]: GET /users/3 - User not found - Error: User not found
+    at UserService.findByID (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:73:13)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-05-06T05:07:18.685Z [error]: DELETE /contact/3 - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ContactService.delete (/home/aximsoft/projects/my-ts-api/src/services/ContactService.ts:36:20)
+    at async ContactController.delete (/home/aximsoft/projects/my-ts-api/src/controllers/ContactController.ts:53:9)
+2026-05-06T05:07:25.953Z [error]: DELETE /users/5 - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async UserService.delete (/home/aximsoft/projects/my-ts-api/src/services/UserService.ts:45:20)
+    at async UserController.deleteUser (/home/aximsoft/projects/my-ts-api/src/controllers/UserController.ts:77:9)
+2026-05-06T05:10:49.836Z [error]: POST /contact - column reference "id" is ambiguous - error: column reference "id" is ambiguous
+    at /home/aximsoft/projects/my-ts-api/node_modules/pg-pool/index.js:45:11
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ContactService.create (/home/aximsoft/projects/my-ts-api/src/services/ContactService.ts:7:20)
+    at async ContactController.create (/home/aximsoft/projects/my-ts-api/src/controllers/ContactController.ts:15:9)
